@@ -9,3 +9,7 @@ Everyone is welcome to contribute to this repo regardless of your level of famil
 1) A folder is dedicated to each language/framework/etc..
 
 2) Inside each folder, there will be a series of markdown files to guide you from the very basics to the advanced knowledge, as well as  source code examples.
+
+## Credits
+
+[Ronreiter's interactive tutorials](https://github.com/ronreiter/interactive-tutorials) provided a solid base for this repo. 
